@@ -10,7 +10,6 @@ We are [a specialized team](https://wanglabcsu.github.io/) dedicated to cutting-
 
 ### Analysis and/or Visualization
 
-- [ezcox](https://github.com/WangLabCSU/ezcox): Easy and Efficient Batch Processing of Cox and Regression Models.
 
 ## Platforms
 
