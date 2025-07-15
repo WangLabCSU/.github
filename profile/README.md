@@ -15,7 +15,9 @@ We are [a specialized team](https://wanglabcsu.github.io/) dedicated to cutting-
 
 ## Dev Resources
 
-- R package development: [Tidy design principles](https://design.tidyverse.org/) | [Tidyverse style guide](https://style.tidyverse.org/) | [Yunuuuu/standalone](https://github.com/Yunuuuu/standalone) | [book of R Packages](https://r-pkgs.org/)
+- Linux for bioinformatics: [The Unix Workbench](https://seankross.com/the-unix-workbench/) [book of Bioinformatics Data Skills](https://womengovtcollegevisakha.ac.in/departments/Bioinformatics%20Data%20Skills%20Reproducible%20and%20Robust%20Research%20with%20Open%20Source%20Tools%20by%20Vince%20Buffalo.pdf)
 - R for data science: [book of R for Data Science](https://r4ds.hadley.nz/) | [book of R4DS](https://bookdown.org/wangminjie/R4DS/) | [tidyverse](https://github.com/tidyverse) | [easystats](https://github.com/easystats) | [tidymodels](https://github.com/tidymodels) | [tidyomics](https://github.com/tidyomics)
 - Python for data science: [book of Python for Data Analysis](https://wesmckinney.com/book/) | [book of Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | [Single-cell best practices](https://www.sc-best-practices.org/preamble.html)
-- Linux for bioinformatics: [book of Bioinformatics Data Skills](https://womengovtcollegevisakha.ac.in/departments/Bioinformatics%20Data%20Skills%20Reproducible%20and%20Robust%20Research%20with%20Open%20Source%20Tools%20by%20Vince%20Buffalo.pdf)
+- R package development: [Tidy design principles](https://design.tidyverse.org/) | [Tidyverse style guide](https://style.tidyverse.org/) | [Yunuuuu/standalone](https://github.com/Yunuuuu/standalone) | [book of R Packages](https://r-pkgs.org/)
+- Web development: [Shiny](https://shiny.posit.co/) | [Mastering Shiny](https://mastering-shiny.org/index.html)
+- Advanced: [Advanced R](https://adv-r.hadley.nz/)
