@@ -1,4 +1,4 @@
-We are [a specialized team](https://wanglabcsu.github.io/) dedicated to cutting-edge research in cancer bioinformatics at Central South University. Our work centers on advancing knowledge in cancer genomics, identifying and validating immunotherapy biomarkers, and applying bioinformatics tools to uncover novel insights into cancer biology and treatment strategies.
+We are [a specialized team](https://faculty.csu.edu.cn/wangshixiang/en/index.htm) dedicated to cutting-edge research in cancer bioinformatics at Central South University. Our work centers on advancing knowledge in cancer genomics, identifying and validating immunotherapy biomarkers, and applying bioinformatics tools to uncover novel insights into cancer biology and treatment strategies.
 
 ## Tools
 
