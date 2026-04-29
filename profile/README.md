@@ -62,8 +62,8 @@ We are a specialized [computational biology team](https://faculty.csu.edu.cn/wan
 - AI related:
   - AI coding: <https://github.com/WangLabCSU/skills> <https://github.com/WangLabCSU/ai-rollup> (team maintain) <https://github.com/WangLabCSU/andrej-karpathy-skills>
   - agents: <https://github.com/WangLabCSU/bioinfo-daily-skill> <https://github.com/WangLabCSU/bioinformatics-god-skill> <https://github.com/WangLabCSU/zhuge-perspective-skill> <https://github.com/WangLabCSU/nobel-medicine-minds>
-  - skill collection: <https://github.com/WangLabCSU/OpenClaw-Medical-Skills> <https://github.com/WangLabCSU/medical-research-skills> <>
-  - tutorials: <https://github.com/WangLabCSU/minimind> <https://github.com/WangLabCSU/dive-into-llms>
+  - skill collection: <https://github.com/WangLabCSU/OpenClaw-Medical-Skills> <https://github.com/WangLabCSU/medical-research-skills>
+  - tutorials: <https://labuladong.online/zh/ai-coding/ai-guide/> <https://github.com/WangLabCSU/dive-into-llms> <https://github.com/WangLabCSU/minimind>
 
 ## Reading List
 
