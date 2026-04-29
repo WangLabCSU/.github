@@ -59,6 +59,12 @@ We are a specialized [computational biology team](https://faculty.csu.edu.cn/wan
 - Advanced: [Advanced R](https://adv-r.hadley.nz/) | [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) | [The R Manuals](https://rstudio.github.io/r-manuals/) | [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/)
 - Web development: [Shiny](https://shiny.posit.co/) | [Mastering Shiny](https://mastering-shiny.org/index.html) | [Resources for Developers, by Developers](https://developer.mozilla.org/zh-CN/) | [devdocs](https://devdocs.io/html/guides) | [microsoft learn](https://learn.microsoft.com/en-us/)
 
+- AI related:
+  - AI coding: <https://github.com/WangLabCSU/skills> <https://github.com/WangLabCSU/ai-rollup> (team maintain) <https://github.com/WangLabCSU/andrej-karpathy-skills>
+  - agents: <https://github.com/WangLabCSU/bioinfo-daily-skill> <https://github.com/WangLabCSU/bioinformatics-god-skill> <https://github.com/WangLabCSU/zhuge-perspective-skill> <https://github.com/WangLabCSU/nobel-medicine-minds>
+  - skill collection: <https://github.com/WangLabCSU/OpenClaw-Medical-Skills> <https://github.com/WangLabCSU/medical-research-skills> <>
+  - tutorials: <https://github.com/WangLabCSU/minimind> <https://github.com/WangLabCSU/dive-into-llms>
+
 ## Reading List
 
 - [Cookbook-for-R-Chinese](https://github.com/openbiox/Cookbook-for-R-Chinese): 📚Cookbook for R 中文翻译 <https://openbiox.github.io/Cookbook-for-R-Chinese/>
