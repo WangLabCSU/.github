@@ -14,6 +14,15 @@ We are a specialized [computational biology team](https://faculty.csu.edu.cn/wan
 - [mire](https://github.com/WangLabCSU/mire): Microbiome Integrated Reconstruction and Estimation
 - [gcap](https://github.com/ShixiangWang/gcap): Gene-level Circular Amplicon Prediction - ecDNA detection from WES data and copy number profiles
 
+### Workflows
+
+Experimental toolkit and workflows/pipelines for bioinformatics
+
+- [oxo-flow](https://github.com/Traitome/oxo-flow): A Rust-native bioinformatics pipeline engine
+- [oxo-flow-circrna](https://github.com/WangLabCSU/oxo-flow-circrna): circRNA detection pipeline
+- [oxo-flow-venus](https://github.com/WangLabCSU/oxo-flow-venus): a clinical-grade tumor variant detection pipeline
+- [oxo-flow-clindet](https://github.com/WangLabCSU/oxo-flow-clindet): a comprehensive clinical pipeline ported from [zyllifeworld/clindet](https://github.com/zyllifeworld/clindet).
+
 ### Analysis and/or Visualization
 
 - [sigminer](https://github.com/ShixiangWang/sigminer): 🌲 An easy-to-use and scalable toolkit for genomic alteration signature analysis and visualization in R
