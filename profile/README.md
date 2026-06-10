@@ -65,6 +65,7 @@ Experimental toolkit and workflows/pipelines for bioinformatics
 - R for data science: [book of R for Data Science](https://r4ds.hadley.nz/) | [book of R4DS](https://bookdown.org/wangminjie/R4DS/) | [tidyverse](https://github.com/tidyverse) | [easystats](https://github.com/easystats)
 - Python for data science: [book of Python for Data Analysis](https://wesmckinney.com/book/) | [book of Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | [Single-cell analysis in Python](https://scanpy.readthedocs.io/)
 - R package development: [Tidy design principles](https://design.tidyverse.org/) | [Tidyverse style guide](https://style.tidyverse.org/) | [Yunuuuu/standalone](https://github.com/Yunuuuu/standalone) | [R Packages (2e)](https://r-pkgs.org/)
+  - utils: <https://github.com/Yunuuuu/standalone> <https://github.com/WangLabCSU/rpkgkit>
 - Advanced: [Advanced R](https://adv-r.hadley.nz/) | [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) | [The R Manuals](https://rstudio.github.io/r-manuals/) | [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/)
 - Web development: [Shiny](https://shiny.posit.co/) | [Mastering Shiny](https://mastering-shiny.org/index.html) | [Resources for Developers, by Developers](https://developer.mozilla.org/zh-CN/) | [devdocs](https://devdocs.io/html/guides) | [microsoft learn](https://learn.microsoft.com/en-us/)
 
