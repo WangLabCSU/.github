@@ -74,6 +74,7 @@ Experimental toolkit and workflows/pipelines for bioinformatics
   - agents: <https://github.com/WangLabCSU/bioinfo-daily-skill> <https://github.com/WangLabCSU/bioinformatics-god-skill> <https://github.com/WangLabCSU/zhuge-perspective-skill> <https://github.com/WangLabCSU/nobel-medicine-minds>
   - skill collection: <https://github.com/GPTomics/bioSkills> <https://github.com/WangLabCSU/OpenClaw-Medical-Skills> <https://github.com/WangLabCSU/medical-research-skills>
   - tutorials: <https://github.com/anthropics/courses> <https://labuladong.online/zh/ai-coding/ai-guide/> <https://github.com/WangLabCSU/dive-into-llms> <https://github.com/WangLabCSU/minimind>, More check [https://github.com/datawhalechina](https://github.com/datawhalechina)
+  - writing: <https://github.com/Imbad0202/academic-research-skills> <https://github.com/aiming-lab/AutoResearchClaw/blob/main/docs/README_CN.md>
 
 ## Reading List
 
