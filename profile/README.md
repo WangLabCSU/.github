@@ -1,4 +1,4 @@
-We are a specialized [computational biology team](https://faculty.csu.edu.cn/wangshixiang/en/index.htm) at Central South University, driving innovation in bio-intelligence and cancer genomics. Our work focuses on developing computational tools and methods for cancer research, mutational signature analysis, and bioinformatics data processing.
+We are a specialized [computational biology team](https://faculty.csu.edu.cn/wangshixiang/) at Central South University, driving innovation in bio-intelligence and cancer genomics. Our work focuses on developing computational tools and methods for cancer research, mutational signature analysis, and bioinformatics data processing.
 
 ## Tools
 
