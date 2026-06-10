@@ -79,5 +79,5 @@ Experimental toolkit and workflows/pipelines for bioinformatics
 
 - [Cookbook-for-R-Chinese](https://github.com/openbiox/Cookbook-for-R-Chinese): 📚Cookbook for R 中文翻译 <https://openbiox.github.io/Cookbook-for-R-Chinese/>
 - [Curated-List](https://github.com/WangLabCSU/Curated-List): A Curated Reading List Maintained by Shixiang and His Team
-- [lecture-note](https://github.com/WangLabCSU/lecture-note): Lecture notes and tutorials
+- [courses](https://github.com/WangLabCSU/courses): Lecture notes and tutorials
 - [weekly](https://github.com/openbiox/weekly)
